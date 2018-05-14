@@ -1,8 +1,5 @@
 # -- encoding:utf-8 --
-"""
-作业：
-Create by ibf on 2018/5/10
-"""
+
 
 import numpy as np
 import tensorflow as tf
